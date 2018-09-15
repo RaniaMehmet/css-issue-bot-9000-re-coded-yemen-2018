@@ -3,12 +3,13 @@ body {
 }
 
 .completed {
-  font-size: 3em;
+  font-size: 12px;
 }
 
 
 h1 {
 color : blue;
+font-size: 3em;
 }
 h2 {
 color : green;
