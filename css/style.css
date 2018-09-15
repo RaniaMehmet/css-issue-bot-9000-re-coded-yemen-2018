@@ -1,8 +1,10 @@
 body {
-  background:pink;
+  background: blue;
 }
 
-
+.completed {
+  font-family:Sans-Serif;
+}
 
 
 h1 {
